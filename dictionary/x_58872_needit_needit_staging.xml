@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="needit_staging" max_length="40" name="x_58872_needit_needit_staging" type="collection">
+        <element attributes="import_attribute_name=1,edge_encryption_enabled=true" label="1" max_length="40" name="u_1" type="string"/>
+        <element attributes="import_attribute_name=10,edge_encryption_enabled=true" label="10" max_length="40" name="u_10" type="string"/>
+        <element attributes="import_attribute_name=11,edge_encryption_enabled=true" label="11" max_length="40" name="u_11" type="string"/>
+        <element attributes="import_attribute_name=12,edge_encryption_enabled=true" label="12" max_length="40" name="u_12" type="string"/>
+        <element attributes="import_attribute_name=13,edge_encryption_enabled=true" label="13" max_length="40" name="u_13" type="string"/>
+        <element attributes="import_attribute_name=14,edge_encryption_enabled=true" label="14" max_length="40" name="u_14" type="string"/>
+        <element attributes="import_attribute_name=15,edge_encryption_enabled=true" label="15" max_length="40" name="u_15" type="string"/>
+        <element attributes="import_attribute_name=16,edge_encryption_enabled=true" label="16" max_length="40" name="u_16" type="string"/>
+        <element attributes="import_attribute_name=17,edge_encryption_enabled=true" label="17" max_length="40" name="u_17" type="string"/>
+        <element attributes="import_attribute_name=18,edge_encryption_enabled=true" label="18" max_length="40" name="u_18" type="string"/>
+        <element attributes="import_attribute_name=19,edge_encryption_enabled=true" label="19" max_length="40" name="u_19" type="string"/>
+        <element attributes="import_attribute_name=2,edge_encryption_enabled=true" label="2" max_length="40" name="u_2" type="string"/>
+        <element attributes="import_attribute_name=20,edge_encryption_enabled=true" label="20" max_length="40" name="u_20" type="string"/>
+        <element attributes="import_attribute_name=21,edge_encryption_enabled=true" label="21" max_length="40" name="u_21" type="string"/>
+        <element attributes="import_attribute_name=22,edge_encryption_enabled=true" label="22" max_length="40" name="u_22" type="string"/>
+        <element attributes="import_attribute_name=23,edge_encryption_enabled=true" label="23" max_length="40" name="u_23" type="string"/>
+        <element attributes="import_attribute_name=24,edge_encryption_enabled=true" label="24" max_length="40" name="u_24" type="string"/>
+        <element attributes="import_attribute_name=25,edge_encryption_enabled=true" label="25" max_length="40" name="u_25" type="string"/>
+        <element attributes="import_attribute_name=26,edge_encryption_enabled=true" label="26" max_length="40" name="u_26" type="string"/>
+        <element attributes="import_attribute_name=27,edge_encryption_enabled=true" label="27" max_length="40" name="u_27" type="string"/>
+        <element attributes="import_attribute_name=28,edge_encryption_enabled=true" label="28" max_length="40" name="u_28" type="string"/>
+        <element attributes="import_attribute_name=29,edge_encryption_enabled=true" label="29" max_length="40" name="u_29" type="string"/>
+        <element attributes="import_attribute_name=3,edge_encryption_enabled=true" label="3" max_length="40" name="u_3" type="string"/>
+        <element attributes="import_attribute_name=30,edge_encryption_enabled=true" label="30" max_length="40" name="u_30" type="string"/>
+        <element attributes="import_attribute_name=31,edge_encryption_enabled=true" label="31" max_length="40" name="u_31" type="string"/>
+        <element attributes="import_attribute_name=4,edge_encryption_enabled=true" label="4" max_length="40" name="u_4" type="string"/>
+        <element attributes="import_attribute_name=43466.0,edge_encryption_enabled=true" label="43466.0" max_length="40" name="u_43466_0" type="string"/>
+        <element attributes="import_attribute_name=5,edge_encryption_enabled=true" label="5" max_length="40" name="u_5" type="string"/>
+        <element attributes="import_attribute_name=6,edge_encryption_enabled=true" label="6" max_length="40" name="u_6" type="string"/>
+        <element attributes="import_attribute_name=7,edge_encryption_enabled=true" label="7" max_length="40" name="u_7" type="string"/>
+        <element attributes="import_attribute_name=8,edge_encryption_enabled=true" label="8" max_length="40" name="u_8" type="string"/>
+        <element attributes="import_attribute_name=9,edge_encryption_enabled=true" label="9" max_length="40" name="u_9" type="string"/>
+        <element attributes="import_attribute_name=B,edge_encryption_enabled=true" label="B" max_length="40" name="u_b" type="string"/>
+        <element attributes="import_attribute_name=F,edge_encryption_enabled=true" label="F" max_length="40" name="u_f" type="string"/>
+        <element attributes="import_attribute_name=G,edge_encryption_enabled=true" label="G" max_length="51" name="u_g" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="グループ名 メイ" max_length="40" name="u_グループ名_メイ" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="サービス管理 カンリ" max_length="40" name="u_サービス管理_カンリ" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="合計&#10;(時間) ゴウケイ ジカン" max_length="40" name="u_合計__時間__ゴウケイ_ジカン" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="合計&#10;(時間:分) ゴウケイ ジカン フン" max_length="40" name="u_合計__時間_分__ゴウケイ_ジカン_フン" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="日付 ヒヅケ" max_length="40" name="u_日付_ヒヅケ" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ﾊﾞｰｼﾞｮﾝ" max_length="40" name="u_ﾊﾞｰｼﾞｮﾝ" type="string"/>
+    </element>
+</database>
